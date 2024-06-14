@@ -47,8 +47,7 @@
         <version>3.2.5</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>batch.xml</suiteXmlFile>
-           <suiteXmlFile>smoke.xml</suiteXmlFile>
+            <suiteXmlFile>redbus.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
